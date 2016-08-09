@@ -33,11 +33,12 @@ No Class | 8/10: Introduction / Expectations / Intro to Data Science
 9/26: Dimension Reduction | 9/28: Clustering / Topic Modelling | Peer Review Due (M)
 10/3: Neural Networks / Deep Learning | 10/5: Stochastic Gradient Descent | |HW 2 Due (W)
 10/10: Recommendation Engines | 10/12: Web Development with Flask | |
-10/17: Data Science in Practice | 10/19: Projects | Git Er Done | Git Er Done
+10/17: Data Science in Practice / Projects | 10/19: Projects | Git Er Done | Git Er Done
 
 
 ### Installation and Setup
 * Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
+* Setup a conda virtual environment
 * Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
 * Once you receive an email invitation from [Slack](https://slack.com/), join our "SFDAT26 team" and add your photo!
 
