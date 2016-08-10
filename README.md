@@ -38,7 +38,7 @@ No Class | 8/10: Introduction / Expectations / Intro to Data Science
 
 ### Installation and Setup
 * Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
-* Setup a conda virtual environment
+* Setup a [conda virtual environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
 * Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
 * Once you receive an email invitation from [Slack](https://slack.com/), join our "SFDAT26 team" and add your photo!
 
@@ -47,5 +47,24 @@ No Class | 8/10: Introduction / Expectations / Intro to Data Science
 * [Learn How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/toc.html#t-o-c)
 
 
+##Introduction / Expectations / Intro to Data Science
 
+Agenda
+
+* Introduction to General Assembly [slides](slides/01_DAT_intro_deck.pdf)
+* Course overview: our philosophy and expectations ([slides](slides/01_course_overview.pdf))
+* Intro to Data Science: [slides](slides/01_intro_to_data_science.pdf)
+
+Break -- [**Command Line Tutorial**](http://generalassembly.github.io/prework/cl)
+
+* Introduction on how to read and write iPython notebooks [tutorial](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/intro_to_ipython_notebooks.ipynb)
+* Python pre-work [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/01_python_exercies.ipynb)
+
+Homework
+
+
+* Setup a [conda virtual environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
+* Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
+	* Read my intro to [Git](slides/01_git.pdf)
+* Once you receive an email invitation from [Slack](https://slack.com/), join our "SFDAT26 team" and add your photo!
 
