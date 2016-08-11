@@ -45,6 +45,7 @@ No Class | 8/10: Introduction / Expectations / Intro to Data Science
 ### Resources
 * [PEP 8 - Style Guide for Python](http://www.python.org/dev/peps/pep-0008)
 * [Learn How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/toc.html#t-o-c)
+* Potential book for course? [:)](https://www.amazon.com/Principles-Data-Science-Sinan-Ozdemir-ebook/dp/B01A8T8YNC)
 
 
 ##Introduction / Expectations / Intro to Data Science
