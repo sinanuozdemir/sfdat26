@@ -121,9 +121,9 @@ Homework
 * To install tweepy please type into your console `conda install tweepy` 
 	* OR if that does not work, `pip install tweepy`
 * Slides on Getting Data [here](slides/03_getting_data.pdf)
-* Intro to Regular Expressions [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/04_regex_example.ipynb)
-* Getting Data from the open web [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/04_getting_data_from_web.ipynb)
-* Getting Data from an API [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/04_getting_data_from_api.ipynb)
+* Intro to Regular Expressions [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/03_regex_example.ipynb)
+* Getting Data from the open web [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/03_getting_data_from_web.ipynb)
+* Getting Data from an API [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/03_getting_data_from_api.ipynb)
 * LAB on getting data [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/labs/03_getting_data_lab.ipynb)
 
 ####Homework
