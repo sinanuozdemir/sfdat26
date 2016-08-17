@@ -44,9 +44,9 @@ If it's not possible or practical to include your entire dataset, you should lin
 ## Milestones
 
 
-### April 14 (Mandatory): Question(s) and Data Set(s)
+### August 24 (Mandatory): Three potential Questions
 
-What is the question you hope to answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose this topic? If you have sevaral ideas, please lay them all out! If you have data sources (even if youhavne't scraped them yet) please write those down as well. Upload this as a **MARKDOWN** file in your sfdat22_work repo
+What are three potential questions you would like to try and answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose these topics? Upload this as a **MARKDOWN** file in your sfdat26_work repo. Keep in mind these might not be your final questions, but I want you to start thinking as soon as possible. If you know exactly what you want to do and don't want to icnlude two other ideas, **please still try to think of two more ideas (just in case).**
 
 Example:
 
@@ -56,14 +56,15 @@ Example:
 * I chose this topic because I'm fascinated by the history of the Titanic.
 
 
-### May 19 (Mandatory): One Pager Due
+### Sept 21 (Mandatory): FIrst Draft
 
-Zip up all files relevant to your project, and slack a link to Mars. Your peers and instructors will provide feedback, according to [these guidelines]().
+Zip up all files relevant to your project, and upload to sfdat26_work repo. Your peers and instructors will provide feedback.
 
 At a minimum, you should include:
 
 * Narrative of what you have done so far and what you are still planning to do
 * Code, with lots of comments
+* At least 3 slides (not including a title or ending slide)
 
 Ideally, you would also include:
 
@@ -79,11 +80,6 @@ Tips for success:
 * If your reviewers can actually run your code on the provided data, they will be able to give you more useful feedback on your code. (It can be very hard to make useful code suggestions on code that can't be run!)
 
 
-### May 26 (Optional): Second Draft Due 
-
-If you would like additional feedback on your project, submit a revised version of your project. Your instructors will provide feedback. (There is no peer review for the second draft.)
-
-
-### May 31st and June 2nd: Presentation
+### Oct 17th and 19th: Presentations
 
 Deliver your project presentation in class, and submit all required deliverables (paper, slides, code, data, and data dictionary).
