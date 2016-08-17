@@ -124,12 +124,13 @@ Homework
 * Intro to Regular Expressions [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/04_regex_example.ipynb)
 * Getting Data from the open web [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/04_getting_data_from_web.ipynb)
 * Getting Data from an API [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/04_getting_data_from_api.ipynb)
-* LAB on getting data [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/labs/03_lab_getting_data.ipynb)
+* LAB on getting data [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/labs/03_getting_data_lab.ipynb)
 
 ####Homework
-* The first homework will be assigned by tomorrow morning (in a homework folder) and it is due NEXT Thursday (4/14)
+* The first homework will be assigned by tomorrow morning (in a homework folder) and it is due in two Wednesdays (8/31)
 	* It is a combo of pandas question with a bit of API/scraping
-	* Please push your completed work to your sfdat22_work repo for grading
+	* Please push your completed work to your sfdat26_work repo for grading
+* Your [first project milestone](project.md) is due next Wednesday. It is the first three ideas you have for your project. Think about potential interesting sources of data you would like to work with. This can come from work, hobby, or elsewhere!
 
 ####Resources:
 
