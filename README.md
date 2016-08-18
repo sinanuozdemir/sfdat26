@@ -96,7 +96,7 @@ Homework
 		* OR if that does not work, `pip install tweepy`
 
 #### Resources:
-* Another Git turorial [here](http://try.github.io)
+* Another Git tutorial [here](http://try.github.io)
 * In depth Git/Github tutorial series made by a GA_DC  Data Science Instructor [here](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
 * [Another Intro to Pandas](http://nbviewer.ipython.org/gist/wesm/4757075/PandasTour.ipynb) (Written by Wes McKinney and is adapted from his book)
 	* [Here](https://vimeo.com/59324550) is a video of Wes McKinney going through his ipython notebook!
