@@ -75,7 +75,7 @@ Homework
 
 ####Goals
 
-* Feel comfotable importing, manipualting, and graphing data using Python's Pandas
+* Feel comfortable importing, manipulating, and graphing data using Python's Pandas
 * Be able to find missing values and begin to have a sense of how to deal with them
 
 
