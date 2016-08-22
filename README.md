@@ -75,7 +75,7 @@ Homework
 
 ####Goals
 
-* Feel comfotable importing, manipualting, and graphing data using Python's Pandas
+* Feel comfortable importing, manipulating, and graphing data using Python's Pandas
 * Be able to find missing values and begin to have a sense of how to deal with them
 
 
@@ -142,6 +142,7 @@ Web Scraping Resources:
 * For a much longer web scraping tutorial covering Beautiful Soup, lxml, XPath, and Selenium, watch [Web Scraping with Python](https://www.youtube.com/watch?v=p1iX0uxM1w8) (3 hours 23 minutes) from PyCon 2014. The slides and code are also available.
 * [import.io](https://www.import.io/) and [Kimono](https://www.kimonolabs.com/) claim to allow you to scrape websites without writing any code. Its alrighhhtttttt
 * [How a Math Genius Hacked OkCupid](http://www.wired.com/2014/01/how-to-hack-okcupid/all/) to Find True Love and [How Netflix Reverse Engineered](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/?single_page=true) Hollywood are two fun examples of how web scraping has been used to build interesting datasets.
+<<<<<<< HEAD
 
 ### Class 4: Intro to Machine Learning / KNN
 
@@ -181,3 +182,5 @@ Web Scraping Resources:
 
 * For a more in-depth look at machine learning, read section 2.1 (14 pages) of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
 * Stackoverflow article on the difference between generative and discriminative models [here](http://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm)
+=======
+>>>>>>> 86c0b02510813b2baafbb9541ecae907bbb80016
