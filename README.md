@@ -158,7 +158,7 @@ Web Scraping Resources:
 	* Supervised vs Unsupervised Learning
 	* Regression vs. Classification
 
-* [Lab](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/labs/04_knn_lab.ipynb) to create our own KNN model
+* [Lab](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/labs/04_knn_lab.ipynb) to use KNN models to investigate accelerometer data
 
 
 ####Homework
