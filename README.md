@@ -142,16 +142,15 @@ Web Scraping Resources:
 * For a much longer web scraping tutorial covering Beautiful Soup, lxml, XPath, and Selenium, watch [Web Scraping with Python](https://www.youtube.com/watch?v=p1iX0uxM1w8) (3 hours 23 minutes) from PyCon 2014. The slides and code are also available.
 * [import.io](https://www.import.io/) and [Kimono](https://www.kimonolabs.com/) claim to allow you to scrape websites without writing any code. Its alrighhhtttttt
 * [How a Math Genius Hacked OkCupid](http://www.wired.com/2014/01/how-to-hack-okcupid/all/) to Find True Love and [How Netflix Reverse Engineered](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/?single_page=true) Hollywood are two fun examples of how web scraping has been used to build interesting datasets.
-<<<<<<< HEAD
 
 ### Class 4: Intro to Machine Learning / KNN
 
 ####Agenda
 
-* Iris pre-work [code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/04_iris_prework.ipynb)
+* Iris pre-work [code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/04_iris_prework.ipynb)
 	* Using numpy to investigate the iris dataset further
 	* Understanding how humans learn so that we can teach the machine!
-	* If nedded, read intro to numpy [code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/04_numpy_ref.ipynb)
+	* If nedded, read intro to numpy [code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/04_numpy_ref.ipynb)
 		* Numerical Python, code adapted from tutorial [here](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
 		* Special attention to the idea of the np.array
 
@@ -159,7 +158,7 @@ Web Scraping Resources:
 	* Supervised vs Unsupervised Learning
 	* Regression vs. Classification
 
-* [Lab](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/labs/04_knn_lab.ipynb) to create our own KNN model
+* [Lab](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat26/blob/master/labs/04_knn_lab.ipynb) to create our own KNN model
 
 
 ####Homework
@@ -182,5 +181,3 @@ Web Scraping Resources:
 
 * For a more in-depth look at machine learning, read section 2.1 (14 pages) of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
 * Stackoverflow article on the difference between generative and discriminative models [here](http://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm)
-=======
->>>>>>> 86c0b02510813b2baafbb9541ecae907bbb80016
