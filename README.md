@@ -276,14 +276,15 @@ Web Scraping Resources:
 
 **Agenda**
 
+* Quick recap of what we've done so far
 * Naural Language Processing is the science of turning words and sentences into data and numbers. Today we will be exploring techniques into this field
 * [code](notebooks/07_nlp.ipynb) showing topics in NLP
 * [lab](labs/07_nlp_lab.ipynb) analyzing tweets about the stock market
+* NO CLASS ON MONDAY
 
 
 **Homework:**
 
-* HW2 is assigned in the hw folder
 * Read Paul Graham's [A Plan for Spam](http://www.paulgraham.com/spam.html) and be prepared to **discuss it in class when we get back!**. Here are some questions to think about while you read:
     * Should a spam filter optimize for sensitivity or specificity, in Paul's opinion?
     * Before he tried the "statistical approach" to spam filtering, what was his approach?
