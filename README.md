@@ -341,13 +341,16 @@ Today we are going to talk about four major things as related to advanced sklear
 * LAB -- Kaggle competition [instructions](https://www.kaggle.com/c/sf-crime)
 
 ### Class 11: Decision Trees / Ensembling
-* Decision trees ([notebook](notebooks/14_decision_trees.ipynb))
-* Ensembling ([notebook](notebooks/11_ensembling.ipynb))
-    * [Major League Baseball player data](data/hitters.csv) from 1986-87
-    * [Data dictionary](https://cran.r-project.org/web/packages/ISLR/ISLR.pdf) (page 7)
+
+* Decision trees ([notebook](notebooks/11_decision_trees.ipynb))
+	* Bonus content deals with the algorithm behind building trees
 
 
-**Decision Tree Resources:**
+** Homework **
+* HW2 is live in the homework file
+* Project milestone 2 is due on Wednesday!
+
+**Resources:**
 
 * scikit-learn's documentation on [decision trees](http://scikit-learn.org/stable/modules/tree.html) includes a nice overview of trees as well as tips for proper usage.
 * For a more thorough introduction to decision trees, read section 4.3 (23 pages) of [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php). (Chapter 4 is available as a free download.)
