@@ -339,3 +339,18 @@ Today we are going to talk about four major things as related to advanced sklear
 * Review on the board
 * Review part deux ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/10_review.ipynb))
 * LAB -- Kaggle competition [instructions](https://www.kaggle.com/c/sf-crime)
+
+### Class 11: Decision Trees / Ensembling
+* Decision trees ([notebook](notebooks/14_decision_trees.ipynb))
+* Ensembling ([notebook](notebooks/11_ensembling.ipynb))
+    * [Major League Baseball player data](data/hitters.csv) from 1986-87
+    * [Data dictionary](https://cran.r-project.org/web/packages/ISLR/ISLR.pdf) (page 7)
+
+
+**Decision Tree Resources:**
+
+* scikit-learn's documentation on [decision trees](http://scikit-learn.org/stable/modules/tree.html) includes a nice overview of trees as well as tips for proper usage.
+* For a more thorough introduction to decision trees, read section 4.3 (23 pages) of [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php). (Chapter 4 is available as a free download.)
+* If you want to go deep into the different decision tree algorithms, this slide deck contains [A Brief History of Classification and Regression Trees](https://drive.google.com/file/d/0B-BKohKl-jUYQ3RpMEF0OGRUU3RHVGpHY203NFd3Z19Nc1ZF/view).
+* [The Science of Singing Along](http://www.doc.gold.ac.uk/~mas03dm/papers/PawleyMullensiefen_Singalong_2012.pdf) contains a neat regression tree (page 136) for predicting the percentage of an audience at a music venue that will sing along to a pop song.
+* Decision trees are common in the medical field for differential diagnosis, such as this classification tree for [identifying psychosis](http://www.psychcongress.com/sites/naccme.com/files/images/pcn/saundras/psychosis_decision_tree.pdf).
